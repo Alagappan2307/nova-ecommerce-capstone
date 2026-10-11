@@ -9,7 +9,7 @@ export const products = [
         bg: "#e4e0d4",
         light: "#f8f4e8",
         dark: "#92948a",
-        art: "art-lamp"
+        art: "art-lamp" 
     },
     {
         id: "still-bottle",
