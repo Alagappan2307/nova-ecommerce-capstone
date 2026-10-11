@@ -1,5 +1,5 @@
 const listeners = new Set();
-
+ 
 export function getRoute() {
     const path = window.location.pathname.replace(/\/+$/, "") || "/";
 
