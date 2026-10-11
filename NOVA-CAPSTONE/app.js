@@ -1,4 +1,4 @@
-import { products, categories, formatPrice } from "./data.js";
+import { products, categories, formatPrice } from "./data.js"; 
 import { getRoute, onRouteChange } from "./router.js";
 
 const app = document.querySelector("#app");
