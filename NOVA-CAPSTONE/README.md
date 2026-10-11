@@ -1,5 +1,5 @@
 # NOVA — E-Commerce Capstone
-
+ 
 A responsive, premium-style concept storefront built using HTML5,
 CSS3, and modular JavaScript.
 
